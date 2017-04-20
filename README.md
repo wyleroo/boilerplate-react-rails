@@ -20,19 +20,19 @@ Find amazing friends with similar interests and set a time and place to meet up!
 ## Styleguide
 * ES6
 * Rails 
-	- No brackets
+    - No brackets
 * Class Names
-	- Preference for longer names
-	- Language specific styles; camelCase, snake_case, etc
+    - Preference for longer names
+    - Language specific styles; camelCase, snake_case, etc
 * Thorough commenting
 * Git/Github
-	- Git/Github Pull Requests
-	- Future tense commenting
-	- Detailed comments
-	- Feature specific naming for branches
-		- *Feature/branch-name-obj*
-		- *Testing/branch-name-object*
+    - Git/Github Pull Requests
+    - Future tense commenting
+    - Detailed comments
+    - Feature specific naming for branches
+        - *Feature/branch-name-obj*
+        - *Testing/branch-name-object*
 * Consistency
 * **NO CODING ON MASTER**
-	- Must face *shame* if so.
+    - Must face *shame* if so.
 * Trello & Slack for communication
